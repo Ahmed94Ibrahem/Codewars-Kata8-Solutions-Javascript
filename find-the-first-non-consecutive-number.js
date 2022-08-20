@@ -17,7 +17,6 @@
 // Check if the Element of the Current Index Larger than the Previous by 1 , Continue
 // If Not Return that Element
 // Return Null if all the Number are consectutive
-
 function firstNonConsecutive(arr) {
   for (let i = 1; i < arr.length; i++) {
     if (arr[i] - 1 !== arr[i - 1]) return arr[i];
