@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Your start-up's BA has told marketing that your website
 // has a large audience in Scandinavia and surrounding countries.
 //  Marketing thinks it would be great to welcome visitors to the site in their own language.

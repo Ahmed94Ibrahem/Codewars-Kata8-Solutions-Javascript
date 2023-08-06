@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // L1: Set Alarm
 
 // Write a function named setAlarm which receives two parameters. The first parameter, employed,

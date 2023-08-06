@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Filter out the geese
 
 // Write a function that takes a list of strings as an argument

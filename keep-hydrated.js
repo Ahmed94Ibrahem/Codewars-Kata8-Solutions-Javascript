@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Nathan loves cycling.
 
 // Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling.

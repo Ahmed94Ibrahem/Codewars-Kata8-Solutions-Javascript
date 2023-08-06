@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Calculate BMI
 
 // Write function bmi that calculates body mass index (bmi = weight / height2).

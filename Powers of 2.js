@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Powers of 2
 
 // Complete the function that takes a non-negative integer n as input,

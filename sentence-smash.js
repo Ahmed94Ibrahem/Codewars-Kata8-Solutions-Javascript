@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Sentence Smash
 // Write a function that takes an array of words and smashes them together
 //  into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation,

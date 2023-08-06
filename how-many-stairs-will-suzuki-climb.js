@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // How many stairs will Suzuki climb in 20 years?
 
 // Suzuki is a monk who climbs a large staircase to the monastery as part of a ritual.

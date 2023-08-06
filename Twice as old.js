@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Twice as old
 
 // Your function takes two arguments:

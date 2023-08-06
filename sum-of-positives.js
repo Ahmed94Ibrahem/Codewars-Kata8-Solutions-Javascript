@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // You get an array of numbers, return the sum of all of the positives ones.
 
 // InitValue = 0

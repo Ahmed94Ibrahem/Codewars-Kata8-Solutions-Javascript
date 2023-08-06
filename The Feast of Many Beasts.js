@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // The Feast of Many Beasts
 
 // All of the animals are having a feast! Each animal is bringing one dish. 

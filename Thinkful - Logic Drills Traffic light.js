@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Thinkful - Logic Drills: Traffic light
 
 // You're writing code to control your town's traffic lights.

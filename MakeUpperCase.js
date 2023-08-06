@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // MakeUpperCase
 
 // Write a function which converts the input string to uppercase.

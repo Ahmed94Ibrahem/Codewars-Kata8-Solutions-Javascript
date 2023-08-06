@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Correct the mistakes of the character recognition software
 
 // Character recognition software is widely used to digitise printed texts. 

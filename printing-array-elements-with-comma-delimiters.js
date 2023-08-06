@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Printing Array elements with Comma delimiters
 
 

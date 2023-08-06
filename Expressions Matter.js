@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Expressions Matter
 
 // Given three integers a ,b ,c, 

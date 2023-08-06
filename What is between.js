@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // What is between
 
 // Complete the function that takes two integers (a, b, where a < b)

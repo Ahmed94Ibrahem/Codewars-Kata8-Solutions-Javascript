@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // How many lightsabers do you own?
 
 // Inspired by the development team at Vooza, write the function that

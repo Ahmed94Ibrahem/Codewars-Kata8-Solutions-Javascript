@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // // Exclusive "or" (xor) Logical Operator
 // // Overview
 // // In some scripting languages like PHP,

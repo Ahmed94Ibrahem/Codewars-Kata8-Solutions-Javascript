@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Given a string, you have to return a string in which each character (case-sensitive) is repeated once.
 
 // Turn the String into Array

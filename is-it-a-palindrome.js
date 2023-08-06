@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Write a function that checks if a given string (case insensitive) is a palindrome.
 
 // Convert the String to Lower Case

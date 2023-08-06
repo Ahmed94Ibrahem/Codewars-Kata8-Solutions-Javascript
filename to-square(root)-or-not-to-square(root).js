@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Write a method, that will get an integer array as parameter and will process every number from this array.
 
 // Return a new array with processing every number of the input-array like this:

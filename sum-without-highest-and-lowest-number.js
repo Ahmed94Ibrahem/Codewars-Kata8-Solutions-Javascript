@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Check if Empty Value return 0
 // Find the heighest Number
 // Find the Lowest Number

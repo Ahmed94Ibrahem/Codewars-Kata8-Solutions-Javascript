@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // When provided with a letter, return its position in the alphabet.
 
 // 1- Create a String with the Alphapet

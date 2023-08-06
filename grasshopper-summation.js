@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Grasshopper - Summation
 
 // Write a program that finds the summation of every number from 1 to num.

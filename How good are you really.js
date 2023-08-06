@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // How good are you really?
 
 

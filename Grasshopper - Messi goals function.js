@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Grasshopper - Messi goals function
 
 // Messi goals function

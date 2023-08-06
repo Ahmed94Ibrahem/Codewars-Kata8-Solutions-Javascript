@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Create a function called shortcut to remove the lowercase vowels (a, e, i, o, u ) in a given string.
 
 // Create an Array includes the 5 Letters (a, e, i, o, u)

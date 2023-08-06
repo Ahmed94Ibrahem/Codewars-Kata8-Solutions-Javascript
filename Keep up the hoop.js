@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Keep up the hoop
 
 // Alex just got a new hula hoop, he loves it but feels discouraged because his little brother is better than him

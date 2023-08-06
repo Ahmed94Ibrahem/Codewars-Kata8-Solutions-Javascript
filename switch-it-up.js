@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // When provided with a number between 0-9, return it in words.
 
 // Input :: 1

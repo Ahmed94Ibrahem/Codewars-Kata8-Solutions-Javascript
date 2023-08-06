@@ -1,3 +1,5 @@
+// Code wars Kata8 Solutions
+
 // Is n divisible by x and y?
 
 
